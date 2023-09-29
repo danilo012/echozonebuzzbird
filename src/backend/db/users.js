@@ -11,7 +11,7 @@ export const users = [
     lastName: "royate",
     password: "1234",
     username: "jeryan",
-    bio: "Date approved - 09/29/23",
+    bio: "echozone teamleader",
     website: "https://echozoneph.online",
     profileAvatar:
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331085/socialMedia/Emily-Smith_jfepcx.jpg",
