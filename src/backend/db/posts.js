@@ -229,8 +229,8 @@ export const posts = [
     _id: "eaf91a20-5b28-a6b2-bae97d76681a",
     content:
       "We can’t get over. echozone is number 1 earning platform for us💙",
-    mediaURL: "",
-    mediaAlt: "",
+    mediaURL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHntdIPZQj4PU-U4pLhBHTJ4g566PbTDJ9_NuRFIQ&s=0",
+    mediaAlt: "echozone",
     likes: {
       likeCount: 3,
       likedBy: [
