@@ -9,7 +9,7 @@ export const users = [
     _id: "admin01",
     firstName: "jeryan",
     lastName: "royate",
-    password: "jerrielroyate@gmail.com",
+    password: "1234",
     username: "jeryan",
     bio: "Date approved - 09/29/23",
     website: "https://echozoneph.online",
