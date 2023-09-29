@@ -228,7 +228,7 @@ export const posts = [
   {
     _id: "eaf91a20-5b28-a6b2-bae97d76681a",
     content:
-      "We can’t get over yestaerday's football match and neither can our captain! 💙",
+      "We can’t get over. echozone is number 1 earning platform for us💙",
     mediaURL: "",
     mediaAlt: "",
     likes: {
@@ -261,7 +261,7 @@ export const posts = [
       ],
       dislikedBy: [],
     },
-    username: "adityaj",
+    username: "jeryan",
     createdAt: formatDate(),
     updatedAt: formatDate(),
     comments: [
