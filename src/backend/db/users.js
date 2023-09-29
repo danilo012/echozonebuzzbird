@@ -6,18 +6,18 @@ import { formatDate } from "../utils/authUtils";
 
 export const users = [
   {
-    _id: "t7cZfWIp-q",
-    firstName: "Emily",
-    lastName: "Smith",
-    password: "emily@123Smith",
-    username: "emilysmith",
-    bio: "Aspiring Frontend Developer",
-    website: "https://emilysmith.tech",
+    _id: "admin01",
+    firstName: "jeryan",
+    lastName: "royate",
+    password: "jerrielroyate@gmail.com",
+    username: "jeryan",
+    bio: "Date approved - 09/29/23",
+    website: "https://echozoneph.online",
     profileAvatar:
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331085/socialMedia/Emily-Smith_jfepcx.jpg",
     backgroundImage:
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
-    createdAt: "2019-02-02T01:06:00+05:30",
+    createdAt: "2023-09-29T01:06:00+05:30",
     updatedAt: formatDate(),
     following: [
       {
