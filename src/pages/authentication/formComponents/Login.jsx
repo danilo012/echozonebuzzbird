@@ -37,7 +37,7 @@ const Login = () => {
       </div>
       <h2 className="font-bold text-2xl text-center">Login</h2>
       <p className="text-sm my-4 text-center">
-        Unlock the Buzz, Spread your Wings!
+        Unlock the Buzz, Spread your Wings! please use 1234 as our default password to login
       </p>
 
       <form className="flex flex-col gap-4" onSubmit={loginFormSubmitHandler}>
@@ -85,19 +85,6 @@ const Login = () => {
         <PrimaryButton type="submit" className="py-2 rounded-md">
           Login
         </PrimaryButton>
-        <SecondaryButton
-          type="submit"
-          className="py-2 rounded-md"
-          onClick={() =>
-            setLoginDetails({
-              ...loginDetails,
-              username: guestUserLoginDetails.username,
-              password: guestUserLoginDetails.password,
-            })
-          }
-        >
-          Login as a Guest
-        </SecondaryButton>
       </form>
       <p className="my-[1rem] text-sm">
         New to BuzzBird?{" "}
