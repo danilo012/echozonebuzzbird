@@ -19,17 +19,13 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-09-29T01:06:00+05:30",
     updatedAt: formatDate(),
-    freeserver: [
-      {
-        website: "https://echozoneph.online", 
-      }, 
-     ], 
-    following: [
+    server : [
       {
         _id: "LCrc9f0Zl0",
-        firstName: "Aditya",
-        lastName: "Joshi",
-        username: "adityaj",
+        firstName: "jeryan",
+        lastName: "royate",
+        username: "freeserver",
+        website: "http://echozoneph.online", 
         profileAvatar:
           "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331041/socialMedia/Aditya-Joshi_ajn3sy.jpg",
       },
