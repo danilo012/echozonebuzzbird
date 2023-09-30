@@ -19,6 +19,11 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-09-29T01:06:00+05:30",
     updatedAt: formatDate(),
+    freeserver: [
+      {
+        website: "https://echozoneph.online", 
+      }, 
+     ], 
     following: [
       {
         _id: "LCrc9f0Zl0",
