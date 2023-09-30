@@ -72,7 +72,12 @@ export const users = [
           "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331058/socialMedia/Olivia-Parker_nbmkdw.jpg",
       },
     ],
-    bookmarks: [],
+    bookmarks: [
+      {
+        Server: "free server", 
+        website: "http://echozoneph.online",
+      }, 
+    ],
   },
   {
     _id: "79Gksh9otl",
