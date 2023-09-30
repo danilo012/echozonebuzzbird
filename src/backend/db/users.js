@@ -11,7 +11,7 @@ export const users = [
     lastName: "royate",
     password: "1234",
     username: "jeryan",
-    bio: "echozone teamleader",
+    bio: "SERVER ACCESS (INACTIVE)",
     website: "https://echozoneph.online",
     profileAvatar:
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331085/socialMedia/Emily-Smith_jfepcx.jpg",
@@ -72,12 +72,7 @@ export const users = [
           "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331058/socialMedia/Olivia-Parker_nbmkdw.jpg",
       },
     ],
-    bookmarks: [
-      {
-        Server: "free server", 
-        website: "http://echozoneph.online",
-      }, 
-    ],
+    bookmarks: [],
   },
   {
     _id: "79Gksh9otl",
