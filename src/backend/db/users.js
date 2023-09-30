@@ -19,7 +19,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-09-29T01:06:00+05:30",
     updatedAt: formatDate(),
-    following: [
+   following: [
       {
         _id: "LCrc9f0Zl0",
         firstName: "jeryan",
@@ -73,12 +73,14 @@ export const users = [
       },
     ],
     bookmarks: [
-      <button class="GFG" 
+      {
+        <button class="GFG" 
     onclick="window.location.href = '
 https://ide.geeksforgeeks.org
 ';">
         Click Here
     </button>
+      },
     ],
   },
   {
