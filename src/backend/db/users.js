@@ -14,7 +14,7 @@ export const users = [
     bio: "SERVER ACCESS (INACTIVE)",
     website: "https://echozoneph.online",
     profileAvatar:
-      "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331085/socialMedia/Emily-Smith_jfepcx.jpg",
+      "https://z-m-scontent.fmnl34-1.fna.fbcdn.net/v/t39.30808-1/381688520_332897295782044_2540021010493742272_n.jpg?stp=c0.5000x0.5000f_dst-jpg_e15_p96x96_q60_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=5917&_nc_ad=z-m&_nc_rml=0&_nc_ht=z-m-scontent.fmnl34-1.fna&_nc_cat=100&_nc_ohc=cyY7_1UqTekAX8WHqXP&ccb=1-7&_nc_sid=5fac6f&oh=00_AfBoVNiCLh8ib1APu2RXrJ1fIoiCO-x364sOrRU1kzh2KA&oe=651C8E5E",
     backgroundImage:
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-09-29T01:06:00+05:30",
