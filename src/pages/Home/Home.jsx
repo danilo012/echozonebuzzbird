@@ -3,10 +3,10 @@ import {
   Loader,
   NewPost,
   PostCard,
-  SearchBar,
+  
   SideBar,
   SortBar,
-  SuggestedUsers,
+  
 } from "../../components";
 import { useAuth, usePosts } from "../../index";
 import { actionTypes } from "../../utils/constants";
@@ -83,8 +83,7 @@ const Home = () => {
       <div className="sm:border-x border-darkGrey dark:border-lightGrey">
         <h1 className=" p-4 sticky top-0 backdrop-blur-md z-10 border-b border-darkGrey dark:border-lightGrey flex items-center justify-between gap-4">
           <span className="text-xl font-bold">Home</span>
-          <div className="block xl:hidden">
-            <SearchBar />
+          
           </div>
         </h1>
 
@@ -122,10 +121,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="hidden xl:block">
-        <SearchBar />
-        <SuggestedUsers />
-      </div>
+      
     </div>
   );
 };
