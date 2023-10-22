@@ -119,6 +119,32 @@ const ProfileDetails = ({ user }) => {
               <span className="font-bold">{user?.followers?.length}</span>{" "}
               Followers
             </span>
+            <span
+              className="hover:underline cursor-pointer"
+              onClick={() =>
+                setUsersListModal(() => ({
+                  show: true,
+                  title: "server",
+                  list: user?.server,
+                }))
+              }
+            >
+              <span className="font-bold">{user?.server?.length}</span>{" "}
+              server
+            </span>
+            <span
+              className="hover:underline cursor-pointer"
+              onClick={() =>
+                setUsersListModal(() => ({
+                  show: true,
+                  title: "affiliate",
+                  list: user?.affiliate,
+                }))
+              }
+            >
+              <span className="font-bold">{user?.affiliate?.length}</span>{" "}
+              affiliate
+            </span>
           </div>
         </div>
       </>
