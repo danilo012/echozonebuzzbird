@@ -37,7 +37,7 @@ const Login = () => {
       </div>
       <h2 className="font-bold text-2xl text-center">Login</h2>
       <p className="text-sm my-4 text-center">
-        Unlock the Buzz, Spread your Wings! please use 1234 as our default password to login
+        Please use 1234 as our default password to login. Unlock the Buzz, Spread your Wings! 
       </p>
 
       <form className="flex flex-col gap-4" onSubmit={loginFormSubmitHandler}>
@@ -87,7 +87,7 @@ const Login = () => {
         </PrimaryButton>
       </form>
       <p className="my-[1rem] text-sm">
-        New to BuzzBird?{" "}
+        New to BuzzBird? After sign up reserve your BuzzBird slot to be able to access your BuzzBird account {" "}
         <span
           className="font-bold text-darkPrimary hover:underline hover:cursor-pointer"
           onClick={() => navigate("/auth/signup")}
@@ -95,6 +95,12 @@ const Login = () => {
           SignUp
         </span>
       </p>
+      <form action="https://share.paybiz.ph/items/LXl9Qt4sxrHpiFDSh4YiRJ">
+         <button type="submit"> ➠R̲e̲s̲e̲r̲v̲e̲ ̲y̲o̲u̲r̲ ̲s̲l̲o̲t̲ ̲n̲o̲w̲!̲ ̲C̲l̲i̲c̲k̲ ̲h̲e̲r̲e̲</button>
+      </form>
+      <form action="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWEpwQWQwbXhETHpPZExOelhzMSt5SDZ5RXZrU3g5RGFlZis2djZ6U0x0M3JoTmJiY1EzUm1tTHpwOXRVSDBjdWhRPT0iLCJoIjoicGxlYXNlIHVzZSBhIHBhc3N3b3JkIGNvZGUg8J+RiSAgMTIzNCIsInMiOiJINmVBQzc1MTRyRUhLY3ZCSXAxaHZnPT0iLCJpIjoiaENVZGtMdlhPOTZOSk5iUiJ9">
+         <button type="submit"> ➠H̲O̲W̲ ̲T̲O̲ ̲E̲A̲R̲N̲! W̲A̲T̲C̲H̲ ̲N̲O̲W̲</button>
+      </form>
     </div>
   );
 };
