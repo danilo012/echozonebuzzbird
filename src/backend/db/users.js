@@ -125,7 +125,7 @@ export const users = [
     lastName: "lapitan",
     password: "1234",
     username: "Cyrellreyes",
-    bio: "FREEZING MONEY ₱0.00",
+    bio: "FREEZING MONEY ₱290.36",
     website: "https://echozoneph.online/coinage",
     profileAvatar:
       "https://z-m-scontent.fmnl26-2.fna.fbcdn.net/v/t39.30808-1/323622895_928917584760628_2088396219843437850_n.jpg?stp=c0.5000x0.5000f_dst-jpg_e15_p258x258_q60_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=5917&_nc_ad=z-m&_nc_rml=0&_nc_ht=z-m-scontent.fmnl26-2.fna&_nc_cat=107&_nc_ohc=NZlj7F4c6AAAX9AG9iW&ccb=1-7&_nc_sid=5fac6f&oh=00_AfAbgvNr31apV-NkGcECNVeWxhFkOM1RFxpUPlpSOM1ZHA&oe=651FBB66",
