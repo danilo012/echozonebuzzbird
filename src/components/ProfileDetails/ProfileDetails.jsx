@@ -94,8 +94,7 @@ const ProfileDetails = ({ user }) => {
           </div>
           <div className="flex items-center gap-4">
             
-            </span>
-            <span
+           <span
               className="hover:underline cursor-pointer"
               onClick={() =>
                 setUsersListModal(() => ({
