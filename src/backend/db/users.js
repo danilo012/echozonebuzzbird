@@ -20,6 +20,16 @@ export const users = [
     createdAt: "2023-10-16T01:06:00+05:30",
     updatedAt: formatDate(),
    following: [],
+    marketplace: [
+     {
+        _id: "marketplace",
+        firstName: "digital",
+        lastName: "marketplace",
+        username: "DIGITAL MARKETPLACE",
+        profileAvatar:
+          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+      },
+   ],
     followers: [
       {
         _id: "admin01",
@@ -77,6 +87,16 @@ export const users = [
     createdAt: "2023-10-16T01:06:00+05:30",
     updatedAt: formatDate(),
    following: [],
+    marketplace: [
+     {
+        _id: "marketplace",
+        firstName: "digital",
+        lastName: "marketplace",
+        username: "DIGITAL MARKETPLACE",
+        profileAvatar:
+          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+      },
+   ],
     followers: [
       {
         _id: "admin01",
@@ -134,6 +154,16 @@ export const users = [
     createdAt: "2023-10-16T01:06:00+05:30",
     updatedAt: formatDate(),
    following: [],
+    marketplace: [
+     {
+        _id: "marketplace",
+        firstName: "digital",
+        lastName: "marketplace",
+        username: "DIGITAL MARKETPLACE",
+        profileAvatar:
+          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+      },
+   ],
     followers: [
       {
         _id: "admin01",
@@ -191,6 +221,16 @@ export const users = [
     createdAt: "2023-09-29T01:06:00+05:30",
     updatedAt: formatDate(),
    following: [],
+    marketplace: [
+     {
+        _id: "marketplace",
+        firstName: "digital",
+        lastName: "marketplace",
+        username: "DIGITAL MARKETPLACE",
+        profileAvatar:
+          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+      },
+   ],
     followers: [
       {
         _id: "admin01",
@@ -240,6 +280,16 @@ export const users = [
     createdAt: "2023-10-02T01:06:00+05:30",
     updatedAt: formatDate(),
    following: [],
+    marketplace: [
+     {
+        _id: "marketplace",
+        firstName: "digital",
+        lastName: "marketplace",
+        username: "DIGITAL MARKETPLACE",
+        profileAvatar:
+          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+      },
+   ],
     followers: [
       {
         _id: "admin01",
@@ -312,6 +362,16 @@ export const users = [
     createdAt: "2023-10-02T01:06:00+05:30",
     updatedAt: formatDate(),
    following: [],
+          marketplace: [
+     {
+        _id: "marketplace",
+        firstName: "digital",
+        lastName: "marketplace",
+        username: "DIGITAL MARKETPLACE",
+        profileAvatar:
+          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+      },
+   ],
     followers: [
       {
         _id: "admin01",
