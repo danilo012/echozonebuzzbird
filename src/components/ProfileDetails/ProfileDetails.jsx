@@ -98,20 +98,20 @@ const ProfileDetails = ({ user }) => {
               onClick={() =>
                 setUsersListModal(() => ({
                   show: true,
-                  title: "marketplace",
-                  list: user?.marketplace,
+                  title: "Following",
+                  list: user?.following,
                 }))
               }
             >
-              <span className="font-bold">{user?.marketplace?.length}</span>{" "}
-              marketplace
+              <span className="font-bold">{user?.following?.length}</span>{" "}
+              Following
             </span>
             <span
               className="hover:underline cursor-pointer"
               onClick={() =>
                 setUsersListModal(() => ({
                   show: true,
-                  title: "followers",
+                  title: "Followers",
                   list: user?.followers,
                 }))
               }
