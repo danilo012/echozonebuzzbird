@@ -93,18 +93,7 @@ const ProfileDetails = ({ user }) => {
             <span className="text-sm">{getPostDate(user?.createdAt)}</span>
           </div>
           <div className="flex items-center gap-4">
-            <span
-              className="hover:underline cursor-pointer"
-              onClick={() =>
-                setUsersListModal(() => ({
-                  show: true,
-                  title: "Following",
-                  list: user?.following,
-                }))
-              }
-            >
-              <span className="font-bold">{user?.following?.length}</span>{" "}
-              Following
+            
             </span>
             <span
               className="hover:underline cursor-pointer"
