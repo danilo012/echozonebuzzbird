@@ -137,6 +137,19 @@ const ProfileDetails = ({ user }) => {
               onClick={() =>
                 setUsersListModal(() => ({
                   show: true,
+                  title: "marketplace",
+                  list: user?.marketplace,
+                }))
+              }
+            >
+              <span className="font-bold">{user?.server?.length}</span>{" "}
+              marketplace
+            </span>
+            <span
+              className="hover:underline cursor-pointer"
+              onClick={() =>
+                setUsersListModal(() => ({
+                  show: true,
                   title: "affiliate",
                   list: user?.affiliate,
                 }))
