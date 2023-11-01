@@ -750,4 +750,19 @@ export const users = [
     createdAt: "2023-10-01T01:06:00+05:30",
     updatedAt: formatDate(),
   },
+  {
+    _id: "marketplace",
+    firstName: "Digital",
+    lastName: "marketplace",
+    password: "marketph",
+    username: "DIGITAL MARKETPLACE",
+    bio: "GO TO AFFILIATE PANEL (click here👇)",
+    website: "https://echozone.socpanel.com/dashboard",
+    profileAvatar:
+      "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+    backgroundImage:
+      "https://cs1.socpanel.com/cs1/panel_logos/mkiWTx2FoNbsZVZ7MsZ2OxVhMJqNAXekZGHEmJpg.jpg",
+    createdAt: "2023-10-01T01:06:00+05:30",
+    updatedAt: formatDate(),
+  },
 ];
