@@ -19,17 +19,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-10-16T01:06:00+05:30",
     updatedAt: formatDate(),
-   marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+   following: [],
     followers: [
       {
         _id: "admin01",
@@ -86,17 +76,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-10-16T01:06:00+05:30",
     updatedAt: formatDate(),
-   marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+   following: [],
     followers: [
       {
         _id: "admin01",
@@ -145,7 +125,7 @@ export const users = [
     lastName: "lapitan",
     password: "1234",
     username: "Cyrellreyes",
-    bio: "FREEZING MONEY ₱290.36",
+    bio: "FREEZING MONEY ₱0.00",
     website: "https://echozoneph.online/coinage",
     profileAvatar:
       "https://z-m-scontent.fmnl26-2.fna.fbcdn.net/v/t39.30808-1/323622895_928917584760628_2088396219843437850_n.jpg?stp=c0.5000x0.5000f_dst-jpg_e15_p258x258_q60_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=5917&_nc_ad=z-m&_nc_rml=0&_nc_ht=z-m-scontent.fmnl26-2.fna&_nc_cat=107&_nc_ohc=NZlj7F4c6AAAX9AG9iW&ccb=1-7&_nc_sid=5fac6f&oh=00_AfAbgvNr31apV-NkGcECNVeWxhFkOM1RFxpUPlpSOM1ZHA&oe=651FBB66",
@@ -153,17 +133,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-10-16T01:06:00+05:30",
     updatedAt: formatDate(),
-   marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+   following: [],
     followers: [
       {
         _id: "admin01",
@@ -220,17 +190,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-09-29T01:06:00+05:30",
     updatedAt: formatDate(),
-   marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+   following: [],
     followers: [
       {
         _id: "admin01",
@@ -279,17 +239,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-10-02T01:06:00+05:30",
     updatedAt: formatDate(),
-   marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+   following: [],
     followers: [
       {
         _id: "admin01",
@@ -361,17 +311,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-10-02T01:06:00+05:30",
     updatedAt: formatDate(),
-   marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+   following: [],
     followers: [
       {
         _id: "admin01",
@@ -420,7 +360,7 @@ export const users = [
     lastName: "royate",
     password: "101017",
     username: "jeryan",
-    bio: "FREEZING MONEY ₱156.51",
+    bio: "FREEZING MONEY ₱0.00",
     website: "https://echozoneph.online/coinage",
     profileAvatar:
       "https://z-m-scontent.fmnl34-1.fna.fbcdn.net/v/t39.30808-1/381688520_332897295782044_2540021010493742272_n.jpg?stp=c0.5000x0.5000f_dst-jpg_e15_p96x96_q60_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=5917&_nc_ad=z-m&_nc_rml=0&_nc_ht=z-m-scontent.fmnl34-1.fna&_nc_cat=100&_nc_ohc=cyY7_1UqTekAX8WHqXP&ccb=1-7&_nc_sid=5fac6f&oh=00_AfBoVNiCLh8ib1APu2RXrJ1fIoiCO-x364sOrRU1kzh2KA&oe=651C8E5E",
@@ -428,17 +368,41 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-09-29T01:06:00+05:30",
     updatedAt: formatDate(),
-   marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
+   following: [
+      {
+        _id: "admin01",
+        firstName: "jeryan",
+        lastName: "royate",
+        username: "jeryan",
+        website: "http://echozoneph.online", 
         profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+          "https://z-m-scontent.fmnl34-1.fna.fbcdn.net/v/t39.30808-1/381688520_332897295782044_2540021010493742272_n.jpg?stp=c0.5000x0.5000",
       },
-   ],
+      {
+        _id: "1T6Be1QpLm",
+        firstName: "Jacob",
+        lastName: "Mitchell",
+        username: "jacobmitch",
+        profileAvatar:
+          "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331002/socialMedia/Jacob-Mitchell_elh9gg.jpg",
+      },
+      {
+        _id: "o5gzWjEeX_",
+        firstName: "Rohan",
+        lastName: "Roy",
+        username: "rohaaan",
+        profileAvatar:
+          "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686330965/socialMedia/Rohan-Roy_zk6dlm.jpg",
+      },
+      {
+        _id: "79Gksh9otl",
+        firstName: "Sarah",
+        lastName: "Wilson",
+        username: "wilsarah",
+        profileAvatar:
+          "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331082/socialMedia/Sarah-Wilson_io6cpx.jpg",
+      },
+    ],
     followers: [
       {
         _id: "ab8zWjEeXd",
@@ -504,17 +468,16 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686341814/socialMedia/be-yourself-bg_rmxvmb.jpg",
     createdAt: "2018-06-12T01:06:00+05:30",
     updatedAt: formatDate(),
-    marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
+    following: [
+      {
+        _id: "1T6Be1QpLm",
+        firstName: "Jacob",
+        lastName: "Mitchell",
+        username: "jacobmitch",
         profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+          "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331002/socialMedia/Jacob-Mitchell_elh9gg.jpg",
       },
-   ],
+    ],
     followers: [
       {
         _id: "t7cZfWIp-q",
@@ -541,17 +504,16 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686342238/socialMedia/adventure-explorer-bg_i4p63w.jpg",
     createdAt: "2018-11-26T01:06:00+05:30",
     updatedAt: formatDate(),
-    marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
+    following: [
+      {
+        _id: "ab8zWjEeXd",
+        firstName: "James",
+        lastName: "Murphy",
+        username: "jamesmurf",
         profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+          "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331038/socialMedia/James-Murphy_djl3zv.jpg",
       },
-   ],
+    ],
     followers: [
       {
         _id: "79Gksh9otl",
@@ -586,17 +548,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686342526/socialMedia/musician-bg_qgesca.jpg",
     createdAt: "2017-05-15T01:06:00+05:30",
     updatedAt: formatDate(),
-    marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+    following: [],
     followers: [
       {
         _id: "t7cZfWIp-q",
@@ -623,17 +575,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686343623/socialMedia/food-bg_dgsyce.jpg",
     createdAt: "2019-08-19T01:06:00+05:30",
     updatedAt: formatDate(),
-    marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+    following: [],
     followers: [
       {
         _id: "t7cZfWIp-q",
@@ -660,17 +602,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686343958/socialMedia/storyteller-bg_xzxtd7.jpg",
     createdAt: "2021-01-11T01:06:00+05:30",
     updatedAt: formatDate(),
-    marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+    following: [],
     followers: [],
     bookmarks: [],
   },
@@ -688,17 +620,16 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686344328/socialMedia/pencil-sketch-bg_t0qfe9.jpg",
     createdAt: "2020-01-22T01:06:00+05:30",
     updatedAt: formatDate(),
-    marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
+    following: [
+      {
+        _id: "t7cZfWIp-q",
+        firstName: "Emily",
+        lastName: "Smith",
+        username: "emilysmith",
         profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+          "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331085/socialMedia/Emily-Smith_jfepcx.jpg",
       },
-   ],
+    ],
     followers: [],
     bookmarks: [],
   },
@@ -716,17 +647,16 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686344677/socialMedia/fashion-stage-bg_ykeinp.jpg",
     createdAt: "2018-05-02T01:06:00+05:30",
     updatedAt: formatDate(),
-    marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
+    following: [
+      {
+        _id: "t7cZfWIp-q",
+        firstName: "Emily",
+        lastName: "Smith",
+        username: "emilysmith",
         profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
+          "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331085/socialMedia/Emily-Smith_jfepcx.jpg",
       },
-   ],
+    ],
     followers: [
       {
         _id: "1T6Be1QpLm",
@@ -753,17 +683,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686344889/socialMedia/fashion-designer-bg_osgyw8.jpg",
     createdAt: "2020-10-10T01:06:00+05:30",
     updatedAt: formatDate(),
-    marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+    following: [],
     followers: [],
     bookmarks: [],
   },
@@ -781,17 +701,7 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686345193/socialMedia/businessman-table-bg_dhgla4.jpg",
     createdAt: "2019-04-15T01:06:00+05:30",
     updatedAt: formatDate(),
-    marketplace: [
-     {
-        _id: "marketplace",
-        firstName: "digital",
-        lastName: "marketplace",
-        username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
-        profileAvatar:
-          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
-      },
-   ],
+    following: [],
     followers: [],
     bookmarks: [],
   },
@@ -835,21 +745,6 @@ export const users = [
     website: "https://echozone.socpanel.com/dashboard",
     profileAvatar:
       "https://cs1.socpanel.com/cs1/panel_logos/mkiWTx2FoNbsZVZ7MsZ2OxVhMJqNAXekZGHEmJpg.jpg",
-    backgroundImage:
-      "https://cs1.socpanel.com/cs1/panel_logos/mkiWTx2FoNbsZVZ7MsZ2OxVhMJqNAXekZGHEmJpg.jpg",
-    createdAt: "2023-10-01T01:06:00+05:30",
-    updatedAt: formatDate(),
-  },
-  {
-    _id: "marketplace",
-    firstName: "Digital",
-    lastName: "marketplace",
-    password: "marketph",
-    username: "DIGITAL MARKETPLACE",
-    bio: "GO TO AFFILIATE PANEL (click here👇)",
-    website: "https://echozone.socpanel.com/dashboard",
-    profileAvatar:
-      "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
     backgroundImage:
       "https://cs1.socpanel.com/cs1/panel_logos/mkiWTx2FoNbsZVZ7MsZ2OxVhMJqNAXekZGHEmJpg.jpg",
     createdAt: "2023-10-01T01:06:00+05:30",
