@@ -368,41 +368,17 @@ export const users = [
       "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686332490/socialMedia/programming-bg_znumg2.jpg",
     createdAt: "2023-09-29T01:06:00+05:30",
     updatedAt: formatDate(),
-   following: [
-      {
-        _id: "admin01",
-        firstName: "jeryan",
-        lastName: "royate",
-        username: "jeryan",
-        website: "http://echozoneph.online", 
+   marketplace: [
+     {
+        _id: "marketplace",
+        firstName: "digital",
+        lastName: "marketplace",
+        username: "DIGITAL MARKETPLACE",
+        website: "https://buzzbirdbuyer.socpanel.com", 
         profileAvatar:
-          "https://z-m-scontent.fmnl34-1.fna.fbcdn.net/v/t39.30808-1/381688520_332897295782044_2540021010493742272_n.jpg?stp=c0.5000x0.5000",
+          "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
       },
-      {
-        _id: "1T6Be1QpLm",
-        firstName: "Jacob",
-        lastName: "Mitchell",
-        username: "jacobmitch",
-        profileAvatar:
-          "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331002/socialMedia/Jacob-Mitchell_elh9gg.jpg",
-      },
-      {
-        _id: "o5gzWjEeX_",
-        firstName: "Rohan",
-        lastName: "Roy",
-        username: "rohaaan",
-        profileAvatar:
-          "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686330965/socialMedia/Rohan-Roy_zk6dlm.jpg",
-      },
-      {
-        _id: "79Gksh9otl",
-        firstName: "Sarah",
-        lastName: "Wilson",
-        username: "wilsarah",
-        profileAvatar:
-          "https://res.cloudinary.com/dxnbnviuz/image/upload/w_400,f_auto,q_auto/v1686331082/socialMedia/Sarah-Wilson_io6cpx.jpg",
-      },
-    ],
+   ],
     followers: [
       {
         _id: "ab8zWjEeXd",
