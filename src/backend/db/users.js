@@ -374,7 +374,6 @@ export const users = [
         firstName: "digital",
         lastName: "marketplace",
         username: "DIGITAL MARKETPLACE",
-        website: "https://buzzbirdbuyer.socpanel.com", 
         profileAvatar:
           "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
       },
