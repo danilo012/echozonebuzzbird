@@ -793,7 +793,7 @@ export const users = [
        password: "server",
         username: "DIGITAL MARKETPLACE",
        bio: "GO TO DIGITAL MARKETPLACE (click here👇)",
-        website: "https://buzzbirdbuyer.socpanel.com", 
+        website: "https://echozoneph.online/marketplace.html", 
         profileAvatar:
           "https://cs1.socpanel.com/cs1/shop_logos/DCijZWzCkVuq5CS6XfH2WUvOLFWvxvUiY9vXwFQS.png",
        backgroundImage:
