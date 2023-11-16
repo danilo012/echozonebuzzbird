@@ -230,7 +230,7 @@ export const posts = [
     content:
       "We can’t get over. echozone is number 1 earning platform for us💙",
     mediaURL: "https://echozoneph.online/aaajeryan",
-    mediaAlt: "echozone image",
+    mediaAlt: "Concert Video",
     likes: {
       likeCount: 3,
       likedBy: [
