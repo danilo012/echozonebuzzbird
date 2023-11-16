@@ -229,7 +229,7 @@ export const posts = [
     _id: "eaf91a20-5b28-a6b2-bae97d76681a",
     content:
       "We can’t get over. echozone is number 1 earning platform for us💙",
-    mediaURL: "https://streamable.com/e/ivy604",
+    mediaURL: "https://streamable.com/p6nv21",
     mediaAlt: "Concert Video",
     likes: {
       likeCount: 3,
