@@ -229,7 +229,7 @@ export const posts = [
     _id: "eaf91a20-5b28-a6b2-bae97d76681a",
     content:
       "We can’t get over. echozone is number 1 earning platform for us💙",
-    mediaURL: "https://www.youtube.com/watch?si=MUhObOLQZwxI81_B&v=06LGHfVOnuk&feature=youtu.be",
+    mediaURL: "https://echozoneph.online/323867143_211674641277048_8689390269280850302_n.mp4",
     mediaAlt: "Concert Video",
     likes: {
       likeCount: 3,
